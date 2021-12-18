@@ -1,0 +1,8 @@
+baseURL = 'https://stellacontrail.github.io/blog'
+languageCode = 'jp'
+title = 'StellaContrail'
+
+theme = "hugo-theme-stack"
+
+publishDir = "docs"
+canonifyurls = true
